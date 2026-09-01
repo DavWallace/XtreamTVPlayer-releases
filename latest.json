@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/DavWallace/XtreamTVPlayer-releases/releases/download/v1.1/app-release.apk",
+  "notes": "Fast-forward/rewind (escalating on repeated presses) and captions for Movies/Series, a fix for the screen sleeping during playback, a fix for tiles not responding to the real remote's D-pad, and this in-app update checker."
+}
