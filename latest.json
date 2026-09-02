@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/DavWallace/XtreamTVPlayer-releases/releases/download/v1.1/app-release.apk",
-  "notes": "Fast-forward/rewind (escalating on repeated presses) and captions for Movies/Series, a fix for the screen sleeping during playback, a fix for tiles not responding to the real remote's D-pad, and this in-app update checker."
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/DavWallace/XtreamTVPlayer-releases/releases/download/v1.2/app-release.apk",
+  "notes": "Adds an \"Up Next\" prompt for series episodes: in the last 10 seconds of an episode, a prompt appears with the next episode's title, a countdown, and the option to play now or cancel. Works on both the built-in player and VLC."
 }
