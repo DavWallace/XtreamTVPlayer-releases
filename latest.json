@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/DavWallace/XtreamTVPlayer-releases/releases/download/v1.2/app-release.apk",
-  "notes": "Adds an \"Up Next\" prompt for series episodes: in the last 10 seconds of an episode, a prompt appears with the next episode's title, a countdown, and the option to play now or cancel. Works on both the built-in player and VLC."
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/DavWallace/XtreamTVPlayer-releases/releases/download/v1.3/app-release.apk",
+  "notes": "Adds a scrub bar (current/total time, seek to any position) to Movies/Series playback, and a click-based subtitle picker (defaults to English when available, shows all available languages) instead of the old hidden keypad shortcut. Works on both the built-in player and VLC."
 }
